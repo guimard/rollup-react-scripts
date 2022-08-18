@@ -2,7 +2,7 @@
  * rollup configuration file that reproduce `react-scripts build`
  *
  * @copyright Yadd <yadd@debian.org>
- * license GPL-2+
+ * license MIT
  */
 import babel from '@rollup/plugin-babel';
 import commonjs from '@rollup/plugin-commonjs';
